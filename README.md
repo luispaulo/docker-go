@@ -2,7 +2,7 @@
 
 Este projeto configura um ambiente de desenvolvimento completo em contêineres Docker para construir APIs utilizando Go (com o framework **Gin**), banco de dados **PostgreSQL** e **pgAdmin 4** como interface administrativa para o banco de dados.
 
-O ambiente possui suporte a **Live Reloading (Hot Reload)** via [Air](https://github.com/air-verse/air), o que significa que o código dentro do contêiner Docker será recompilado e atualizado automaticamente sempre que você salvar alterações em arquivos `.go`.
+O ambiente possui suporte a **Live Reloading (Hot Reload)** via [Air], o que significa que o código dentro do contêiner Docker será recompilado e atualizado automaticamente sempre que você salvar alterações em arquivos `.go`.
 
 ---
 
