@@ -1,0 +1,24 @@
+# Histórico/Variáveis de Ambiente
+.env
+
+# Diretórios de compilação e temporários do Air
+tmp/
+bin/
+/app/tmp
+
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+api
+
+# Configurações de IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
